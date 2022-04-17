@@ -1,0 +1,15 @@
+{
+  "name": "primate-file-store",
+  "version": "0.4.2",
+  "author": "Primate core team <core@primatejs.com>",
+  "homepage": "https://primatejs.com/modules/stores/file",
+  "bugs": "https://github.com/primatejs/primate-file-store/issues",
+  "repository": "https://github.com/primatejs/primate-file-store",
+  "description": "Primate file store",
+  "license": "BSD-3-Clause",
+  "peerDependencies": {
+    "primate": "^0.6.3"
+  },
+  "type": "module",
+  "main": "./exports.js"
+}
